@@ -1,0 +1,23 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Git
+.git
+.gitignore
+
+# Static and uploads (if you want to exclude them from the build)
+# static/*
+# uploads/*
+
+# Logs
+*.log
